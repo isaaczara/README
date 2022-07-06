@@ -2,8 +2,9 @@
 I 'm a Brand Experience Designer with years of professional experience in design and a track record in brand communication, community building and marketing design on a global scale.  I 'm currently working with [Hovercast](https://hovercast.com) as an Interactive Designer. I 've given talks/workshops at design/OS conferences around the globe at UX Professionals Washington, Open Up Summit Asia, iMakeFOSS, Friends of Figma Nigeria, FOSSASIA Singapore, FOSDEM Belgium, CoscupXRubyConf Taiwan and among many, I was one of the program members of the DrupalCon North America ,Track Board Drupal Conference Europe, Creative Discourse, and various other communities empowering Africa and the world. I have contributed to Drupal, Linux Foundation Public Health, Indian Open Source Organization, Python Software Foundation & Open Source Design
 
 # Mission🛡
-Passionate about making impact and solving real life problems with design. 
-Collaboration.
+- Passionate about making impact and solving real life problems with design. 
+
+- Collaboration.
 
 # OSS Engagements 📍
 - Currently served as a program member for Drupal Association (Conferences) like DrupalCon North America, Barcelona & Prague.
@@ -42,9 +43,12 @@ _Curated by me, for free_
 - [Brand Strategy Resources](https://twitter.com/isaaczara_/status/1542054719186690049?s=20&t=cXexeAaM2Z5LDDQAr4yyNA)
 - [Remote Design jobs](https://twitter.com/isaaczara_/status/1543195600660963328?s=20&t=cXexeAaM2Z5LDDQAr4yyNA)
 
-# Get in Touch 🌍 ⏱ 👍🏽
+# Get in Touch 👍🏽
 🔗 [Twitter](https://twitter.com/isaaczara_)
 
 🔗 [Linkedin](https://www.linkedin.com/in/isaac-sixtus-chizaram-41220a171/)
 
 🔗 [Website](https://isaaczara.com)
+
+# Favorite Quote 📖
+> _The only way to achieve success is to help others get it first._
