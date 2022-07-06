@@ -15,16 +15,6 @@ I 'm a Brand Experience Designer with years of professional experience in design
 
 - Design Team [Open Source Community Africa](https://twitter.com/oscafrica) alongside Team Lead [Perrie](https://github.com/perriefidelis)
 
-# Available For 🎙
-- Talks
-- Keynotes
-- Panels
-- Moderations
-- Podcasts
-- Q&A Posts
-- Streaming
-- [Others](https://isaaczara.com)
-
 # Link to OSS Talks/Conferences
 > FOSDEM: Ways to contribute to Open Source without writing lines of codes. [(view)](https://archive.fosdem.org/2021/schedule/speaker/sixtus_chizaram_isaac/)
 
@@ -42,6 +32,16 @@ _Curated by me, for free_
 - [Open Source Internships/Programs](https://twitter.com/isaaczara_/status/1542430578682875906?s=20&t=cXexeAaM2Z5LDDQAr4yyNA)
 - [Brand Strategy Resources](https://twitter.com/isaaczara_/status/1542054719186690049?s=20&t=cXexeAaM2Z5LDDQAr4yyNA)
 - [Remote Design jobs](https://twitter.com/isaaczara_/status/1543195600660963328?s=20&t=cXexeAaM2Z5LDDQAr4yyNA)
+
+# Available For 🎙
+- Talks
+- Keynotes
+- Panels
+- Moderations
+- Podcasts
+- Q&A Posts
+- Streaming
+- [Others](https://isaaczara.com)
 
 # Get in Touch 👍🏽
 🔗 [Twitter](https://twitter.com/isaaczara_)
