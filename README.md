@@ -1,7 +1,7 @@
 # About me 🥑 👨🏾‍💻
 I 'm a Brand Experience Designer with years of professional experience in design and a track record in brand communication, community building and marketing design on a global scale.  I 'm currently working with [Hovercast](https://hovercast.com) as an Interactive Designer. I 've given talks/workshops at design/OS conferences around the globe at UX Professionals Washington, Open Up Summit Asia, iMakeFOSS, Friends of Figma Nigeria, FOSSASIA Singapore, FOSDEM Belgium, CoscupXRubyConf Taiwan and among many. 
 
-I 'm the active Founder of [Creative Discourse](https://twitter.com/CrDiscourse) Design Community and various other communities empowering Africa and the world.
+Founder of [Creative Discourse](https://twitter.com/CrDiscourse) Design Community and various other communities empowering Africa and the world.
 
 # Mission🛡
 - Passionate about making impact and solving real life problems with design. 
