@@ -1,5 +1,5 @@
 # About me 🥑 👨🏾‍💻
-Isaac Sixtus Chizaram is a Brand Experience Designer with years of professional experience in design and a track record in brand communication, community building and marketing design on a global scale.  I 'm currently working with [Hovercast](https://hovercast.com) as an Interactive Designer. Currently  serving as a design member for Indian OS foundation, Drupal Association and Sustain UX Working Group. I have given talks/workshops at design/OS conferences around the globe at UX Professionals Washington, Open Up Summit Asia, iMakeFOSS, Friends of Figma Nigeria, FOSSASIA Singapore, FOSDEM Belgium, CoscupXRubyConf Taiwan and among many, I was one of the program members of the DrupalCon North America ,Track Board Drupal Conference Europe, Creative Discourse, and various other communities empowering Africa and the world.   I have contributed to Drupal, Linux Foundation Public Health, Indian Open Source Organization, Python, Open Source Design
+Isaac Sixtus Chizaram is a Brand Experience Designer with years of professional experience in design and a track record in brand communication, community building and marketing design on a global scale.  I 'm currently working with [Hovercast](https://hovercast.com) as an Interactive Designer. Currently  serving as a design member for Indian OS foundation, Drupal Association and Sustain UX Working Group. I have given talks/workshops at design/OS conferences around the globe at UX Professionals Washington, Open Up Summit Asia, iMakeFOSS, Friends of Figma Nigeria, FOSSASIA Singapore, FOSDEM Belgium, CoscupXRubyConf Taiwan and among many, I was one of the program members of the DrupalCon North America ,Track Board Drupal Conference Europe, Creative Discourse, and various other communities empowering Africa and the world. I have contributed to Drupal, Linux Foundation Public Health, Indian Open Source Organization, Python Software Foundation & Open Source Design
 # Get in Touch 🌍 ⏱ 👍🏽
 🔗 [Twitter](https://twitter.com/isaaczara_)
 
@@ -7,4 +7,8 @@ Isaac Sixtus Chizaram is a Brand Experience Designer with years of professional 
 
 🔗 [Website](https://isaaczara.com)
 # OSS Engagements 📍
-Currently served as a program member for Drupal Association (Conferences) like DrupalCon North America, Barcelona & Prague
+Currently served as a program member for Drupal Association (Conferences) like DrupalCon North America, Barcelona & Prague.
+
+Improved the design experience and created brand and visual assets for [Sustain Open Source Design](https://sosdesign.sustainoss.org/)
+
+Currently leading the design/branding efforts at [Indian Open Source Foundation](https://github.com/IndianOpenSourceFoundation) 
