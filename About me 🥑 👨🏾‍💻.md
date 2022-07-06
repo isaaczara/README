@@ -12,3 +12,19 @@ Currently served as a program member for Drupal Association (Conferences) like D
 Improved the design experience and created brand and visual assets for [Sustain Open Source Design](https://sosdesign.sustainoss.org/)
 
 Currently leading the design/branding efforts at [Indian Open Source Foundation](https://github.com/IndianOpenSourceFoundation) 
+
+# Available For 🎙
+- Talks
+- Keynotes
+- Panels
+- Moderations
+- Podcasts
+- Q&A Posts
+- Streaming
+- [Others](https://isaaczara.com)
+
+# Link to OSS Talks/Workshop
+
+# Design Resources to kickstart your design journey
+_Curated by me, for free_
+
