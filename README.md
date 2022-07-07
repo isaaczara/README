@@ -17,7 +17,7 @@ Founder of [Creative Discourse](https://twitter.com/CrDiscourse) Design Communit
 
 - Currently leading the design/branding efforts at [Indian Open Source Foundation](https://github.com/IndianOpenSourceFoundation) 
 
-- Design Team [Open Source Community Africa](https://twitter.com/oscafrica) alongside Team Lead [Perrie](https://github.com/perriefidelis)
+- Design Team OSCAFEST20 [Open Source Community Africa](https://twitter.com/oscafrica) alongside Team Lead [Perrie](https://github.com/perriefidelis)
 
 # Link to OSS Talks/Conferences
 > FOSDEM: Ways to contribute to Open Source without writing lines of codes. [(view)](https://archive.fosdem.org/2021/schedule/speaker/sixtus_chizaram_isaac/)
