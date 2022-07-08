@@ -1,3 +1,9 @@
+
+![GITHUB](https://user-images.githubusercontent.com/52116447/177986771-2a566480-bf88-41b3-b45e-6da216d6dbd5.png)
+
+
+
+
 # About me 🥑 👨🏾‍💻
 I 'm a Brand Experience Designer with years of professional experience in design and a track record in brand communication, community building and marketing design on a global scale.  I 'm currently working with [Hovercast](https://hovercast.com) as an Interactive Designer. 
 
