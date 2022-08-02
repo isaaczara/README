@@ -57,8 +57,6 @@ _Curated by me, for free_
 # Get in Touch 👍🏽
 🔗 [Twitter](https://twitter.com/isaaczara_)
 
-🔗 [Linkedin](https://www.linkedin.com/in/isaac-sixtus-chizaram-41220a171/)
-
 🔗 [Website](https://isaaczara.com)
 
 # Favorite Quote 📖
